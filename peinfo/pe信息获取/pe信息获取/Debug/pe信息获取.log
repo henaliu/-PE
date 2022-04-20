@@ -1,0 +1,18 @@
+﻿生成启动时间为 2022/4/19 星期二 22:50:28。
+     1>项目“E:\vscode\51hook\peinfo\pe信息获取\pe信息获取\pe信息获取.vcxproj”在节点 2 上(Build 个目标)。
+     1>ClCompile:
+         D:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /sdl /Od /Oy- /D _UNICODE /D UNICODE /Gm /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt PeInfo.cpp
+         PeInfo.cpp
+     1>e:\vscode\51hook\peinfo\pe信息获取\pe信息获取\peinfo.cpp(235): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vscode\51hook\peinfo\pe信息获取\pe信息获取\peinfo.cpp(244): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vscode\51hook\peinfo\pe信息获取\pe信息获取\peinfo.cpp(252): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vscode\51hook\peinfo\pe信息获取\pe信息获取\peinfo.cpp(269): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vscode\51hook\peinfo\pe信息获取\pe信息获取\peinfo.cpp(274): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vscode\51hook\peinfo\pe信息获取\pe信息获取\peinfo.cpp(304): warning C4018: “<”: 有符号/无符号不匹配
+     1>e:\vscode\51hook\peinfo\pe信息获取\pe信息获取\peinfo.cpp(310): error C2065: “imagebase”: 未声明的标识符
+     1>e:\vscode\51hook\peinfo\pe信息获取\pe信息获取\peinfo.cpp(310): error C2065: “新加载的地址”: 未声明的标识符
+     1>已完成生成项目“E:\vscode\51hook\peinfo\pe信息获取\pe信息获取\pe信息获取.vcxproj”(Build 个目标)的操作 - 失败。
+
+生成失败。
+
+已用时间 00:00:00.60
